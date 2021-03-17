@@ -12,7 +12,7 @@ In the webpage, when you move your mouse to a mark, you can get a popup with the
 
 ![Image_text](https://raw.githubusercontent.com/shellyxielt/image/main/%E6%88%AA%E5%B1%8F2021-03-16%2023.14.35.png)
 
-When you click the mark of a school, you can see the mark of the nearset hospital will turn to purple and you can easily see the name and the address of the hospital through mouse moving. 
+When you click the mark of a school, you can see the mark of the nearest hospital will turn to purple and you can easily see the name and the address of the hospital through mouse moving. 
 
 ![Image_text](https://raw.githubusercontent.com/shellyxielt/image/main/%E6%88%AA%E5%B1%8F2021-03-16%2023.14.42.png)
 
